@@ -1,6 +1,9 @@
-User & Task Management System
+The system allows users to be created and assigned tasks. All information is stored in a database which means the data remains saved even after the program is closed. This project demonstrates basic backend logic and working with persistent data.
 
-The application runs in the command line and allows users to be created and assigned tasks. All data is stored in a database, so information is saved even after the program closes.
+Technologies
 
-##Technologies
-Python, SQLite, Git
+Python
+
+SQLite
+
+Git
